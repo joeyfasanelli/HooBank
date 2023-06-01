@@ -12,7 +12,7 @@
 
 ## Screenshots
 <img src="readme-images/HooBankHome.png" alt="Home Page"/>
-<img src="readme-images/HooBankPayment.png" alt="Home Page"/>
+<img src="readme-images/HooBankHome.png" alt="Home Page"/>
 
 ## Getting Started
 https://joey-fasanelli-bank-site.vercel.app/
