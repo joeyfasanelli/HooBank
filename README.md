@@ -11,8 +11,8 @@ HooBank is a next-generation banking website utilizing React, Vite and Tailwind 
 * Vercel
 
 ## Screenshots
-<img src="readme-images/HooBankHome.png" alt="Home Page"/>
-<img src="readme-images/HooBankPayment.png" alt="Payment Page"/>
+<img src="vite-project\readme-images\HooBankHome.PNG" alt="Home Page"/>
+<img src="vite-project\readme-images\HooBankPayment.PNG" alt="Payment Page"/>
 
 ## Getting Started
 https://joey-fasanelli-bank-site.vercel.app/
